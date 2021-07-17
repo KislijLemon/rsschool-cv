@@ -21,6 +21,8 @@ Purposeful, self-possessed, and gregarious. I like to learn something new in dif
 |Revit|🌕🌑🌑🌑🌑
 |CorelDraw|🌕🌕🌑🌑🌑
 |Movavi video suite|🌕🌕🌑🌑🌑
+|Visual Studio|🌕🌕🌑🌑🌑
+
 **Education:**
 - 2013-2017 -- Secondary education (*electrical installation and maintenance*). 
 - 2017-2021 -- Higher education (*electronic security system*) 
