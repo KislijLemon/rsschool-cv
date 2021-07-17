@@ -25,3 +25,5 @@ Purposeful, self-possessed, and gregarious. I like to learn something new in dif
 - 2013-2017 -- Secondary education (*electrical installation and maintenance*). 
 - 2017-2021 -- Higher education (*electronic security system*) 
   
+## **English**
+English level is А2. My current job responsibilities including many activities on English such as working with technical documentations and talking with support service teams.
